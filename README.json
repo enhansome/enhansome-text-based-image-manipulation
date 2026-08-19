@@ -1,24 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "Note on the date column: if a paper was published on a preprint venue (such as arXiv) before being accepted at a conference, the date information will match the first preprint release date.",
-      "items": [],
-      "title": "Papers"
-    },
-    {
-      "description": "Feel free to send me pull requests to add resources.",
-      "items": [],
-      "title": "Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T17:39:11.620Z",
+    "last_updated": "2026-08-19T12:55:19.753Z",
     "original_repository": "martinduartemore/awesome-text-based-image-manipulation",
+    "original_repository_id": 288836439,
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
     "enhanced_repository": "enhansome/enhansome-text-based-image-manipulation",
     "enhanced_repository_description": null,
