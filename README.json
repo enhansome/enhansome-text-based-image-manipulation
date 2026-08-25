@@ -71,8 +71,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "2023/01",
-          "description": "Muse: Text-To-Image Generation via Masked Generative Transformers - N/A arXivProject Page PyTorch",
+          "title": "PyTorch",
+          "description": "Muse: Text-To-Image Generation via Masked Generative Transformers - N/A arXivProject Page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,8 +86,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/12",
-          "description": "CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics AAAI N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics AAAI N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,8 +101,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/12",
-          "description": "SINE: SINgle Image Editing with Text-to-Image Diffusion Models - N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "SINE: SINgle Image Editing with Text-to-Image Diffusion Models - N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -116,8 +116,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/11",
-          "description": "Null-text Inversion for Editing Real Images using Guided Diffusion Models - N/A arXivOfficial Page PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Null-text Inversion for Editing Real Images using Guided Diffusion Models - N/A arXivOfficial Page",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -131,8 +131,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/11",
-          "description": "InstructPix2Pix: Learning to Follow Image Editing Instructions - N/A arXivOfficial Page PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "InstructPix2Pix: Learning to Follow Image Editing Instructions - N/A arXivOfficial Page",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,8 +146,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/10",
-          "description": "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulation NeurIPS N/A arXiv - (Official)",
+          "title": "KumapowerLIU/FFCLIP",
+          "description": "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulation NeurIPS N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,8 +161,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/10",
-          "description": "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image - N/A arXiv PyTorch",
+          "title": "PyTorch",
+          "description": "UniTune: Text-Driven Image Editing by Fine Tuning an Image Generation Model on a Single Image - N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -176,8 +176,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/08",
-          "description": "Prompt-to-Prompt Image Editing with Cross Attention Control - N/A arXivOfficial Page PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Prompt-to-Prompt Image Editing with Cross Attention Control - N/A arXivOfficial Page",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -191,8 +191,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/08",
-          "description": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation CVPR (2023) N/A arXivProject Page Dataset (Official) PyTorch",
+          "title": "Dataset (Official)",
+          "description": "PyTorch DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation CVPR (2023) N/A arXivProject Page",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -206,8 +206,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/07",
-          "description": "Towards Counterfactual Image Manipulation via CLIP ACMMM N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Towards Counterfactual Image Manipulation via CLIP ACMMM N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -221,8 +221,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/06",
-          "description": "DE-Net: Dynamic Text-guided Image Editing Adversarial Networks AAAI N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "DE-Net: Dynamic Text-guided Image Editing Adversarial Networks AAAI N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,8 +236,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/04",
-          "description": "VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance ECCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance ECCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,8 +251,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/04",
-          "description": "Referring Object Manipulation of Natural Images with Conditional Classifier-free Guidance ECCV N/A ECVA PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Referring Object Manipulation of Natural Images with Conditional Classifier-free Guidance ECCV N/A ECVA",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/04",
-          "description": "Text2LIVE: Text-Driven Layered Image and Video Editing ECCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Text2LIVE: Text-Driven Layered Image and Video Editing ECCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/03",
-          "description": "FlexIT: Towards Flexible Semantic Image Translation CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "FlexIT: Towards Flexible Semantic Image Translation CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/03",
-          "description": "EnvEdit: Environment Editing for Vision-and-Language Navigation CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "EnvEdit: Environment Editing for Vision-and-Language Navigation CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/02",
-          "description": "FEAT: Face Editing with Attention - N/A arXiv PyTorch",
+          "title": "PyTorch",
+          "description": "FEAT: Face Editing with Attention - N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "2022/02",
-          "description": "Name Your Style: An Arbitrary Artist-aware Image Style Transfer CVPR (2023, Workshop) N/A arXivCvF PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Name Your Style: An Arbitrary Artist-aware Image Style Transfer CVPR (2023, Workshop) N/A arXivCvF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -341,8 +341,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "CLIPstyler: Image Style Transfer with a Single Text Condition CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "CLIPstyler: Image Style Transfer with a Single Text Condition CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,8 +356,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "Embedding Arithmetic for Text-driven Image Transformation CVPR (2022, O-DRUM Workshop) N/A arXivCvF PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Embedding Arithmetic for Text-driven Image Transformation CVPR (2022, O-DRUM Workshop) N/A arXivCvF",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "HairCLIP: Design Your Hair by Text and Reference Image CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "HairCLIP: Design Your Hair by Text and Reference Image CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -401,8 +401,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance WACV (2023) N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance WACV (2023) N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,8 +416,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation WACV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation WACV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -431,8 +431,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/12",
-          "description": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models ICML (2022) N/A arXivMLR PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models ICML (2022) N/A arXivMLR",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -446,8 +446,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/11",
-          "description": "LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation IEEE Access N/A IEEE PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "LatteGAN: Visually Guided Language Attention for Multi-Turn Text-Conditioned Image Manipulation IEEE Access N/A IEEE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/11",
-          "description": "Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model CVPR (2022) N/A arXiv PaddlePaddle (Official) PyTorch (Official)",
+          "title": "PaddlePaddle (Official)",
+          "description": "PyTorch (Official) Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model CVPR (2022) N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -476,8 +476,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/11",
-          "description": "Blended Diffusion for Text-driven Editing of Natural Images CVPR (2022) N/A arXivCvF PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Blended Diffusion for Text-driven Editing of Natural Images CVPR (2022) N/A arXivCvF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -491,8 +491,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/10",
-          "description": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -506,8 +506,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/10",
-          "description": "Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism ICCV N/A CvF PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism ICCV N/A CvF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -521,8 +521,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/10",
-          "description": "Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing BMVC N/A arXiv (Official)",
+          "title": "Zlq2021/CA-GAN",
+          "description": "Each Attribute Matters: Contrastive Attention for Sentence-based Image Editing BMVC N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -536,8 +536,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/09",
-          "description": "Talk-to-Edit: Fine-Grained Facial Editing via Dialog ICCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Talk-to-Edit: Fine-Grained Facial Editing via Dialog ICCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -551,8 +551,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/06",
-          "description": "Learning by Planning: Language-Guided Global Image Editing CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Learning by Planning: Language-Guided Global Image Editing CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -566,8 +566,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/03",
-          "description": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery ICCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery ICCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -581,8 +581,8 @@
         },
         {
           "node_type": "item",
-          "title": "2021/02",
-          "description": "Zero-Shot Text-to-Image Generation ICML N/A arXivMLR PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Zero-Shot Text-to-Image Generation ICML N/A arXivMLR",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -596,8 +596,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/12",
-          "description": "TediGAN: Text-Guided Diverse Face Image Generation and Manipulation CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "TediGAN: Text-Guided Diverse Face Image Generation and Manipulation CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -611,8 +611,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/10",
-          "description": "Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation NeurIPS N/A arXiv (Official)",
+          "title": "mrlibw/Lightweight-Manipulation",
+          "description": "Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation NeurIPS N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -626,8 +626,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/10",
-          "description": "A Benchmark and Baseline for Language-Driven Image Editing ACCV N/A arXiv - (Official)",
+          "title": "jshi31/LDIE_ACCV",
+          "description": "A Benchmark and Baseline for Language-Driven Image Editing ACCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -641,8 +641,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/09",
-          "description": "SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning EMNLP N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "SSCR: Iterative Language-Based Image Editing via Self-Supervised Counterfactual Reasoning EMNLP N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -656,8 +656,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/08",
-          "description": "Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach ACMMM N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Describe What to Change: A Text-guided Unsupervised Image-to-Image Translation Approach ACMMM N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,8 +671,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/08",
-          "description": "Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions ECCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions ECCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,8 +686,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/08",
-          "description": "Text as Neural Operator: Image Manipulation by Text Instruction ACMMM (2021) N/A arXivACM PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Text as Neural Operator: Image Manipulation by Text Instruction ACMMM (2021) N/A arXivACM",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -701,8 +701,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/08",
-          "description": "IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning ACMMM N/A ACM PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "IR-GAN: Image Manipulation with Linguistic Instructionby Increment Reasoning ACMMM N/A ACM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -716,8 +716,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/05",
-          "description": "Scones: Towards Conversational Authoring of Sketches IUI N/A arXiv TensorFlow (Official)",
+          "title": "TensorFlow (Official)",
+          "description": "Scones: Towards Conversational Authoring of Sketches IUI N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -731,8 +731,8 @@
         },
         {
           "node_type": "item",
-          "title": "2020/04",
-          "description": "Text-Guided Neural Image Inpainting ACMMM N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Text-Guided Neural Image Inpainting ACMMM N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,8 +746,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/12",
-          "description": "ManiGAN: Text-Guided Image Manipulation CVPR N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "ManiGAN: Text-Guided Image Manipulation CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,8 +761,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/12",
-          "description": "Controlling Style and Semantics in Weakly-Supervised Image Generation ECCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Controlling Style and Semantics in Weakly-Supervised Image Generation ECCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -776,8 +776,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/09",
-          "description": "Controllable Text-to-Image Generation NeurIPS N/A arXiv PyTorch (Official) TensorFLow",
+          "title": "PyTorch (Official)",
+          "description": "TensorFLow Controllable Text-to-Image Generation NeurIPS N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,8 +791,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/09",
-          "description": "Multi-mapping Image-to-Image Translation via Learning Disentanglement NeurIPS N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Multi-mapping Image-to-Image Translation via Learning Disentanglement NeurIPS N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,8 +806,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/03",
-          "description": "Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks ICASSP N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks ICASSP N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -821,8 +821,8 @@
         },
         {
           "node_type": "item",
-          "title": "2019/03",
-          "description": "Language-based Colorization of Scene Sketches SIGGRAPH Asia N/A ACMAuthor TensorFlow (Official)",
+          "title": "TensorFlow (Official)",
+          "description": "Language-based Colorization of Scene Sketches SIGGRAPH Asia N/A ACMAuthor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -836,8 +836,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/12",
-          "description": "Paired-D GAN for Semantic Image Synthesis ACCV N/A SpringerAuthor PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Paired-D GAN for Semantic Image Synthesis ACCV N/A SpringerAuthor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,8 +851,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/11",
-          "description": "Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction ICCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Tell, Draw, and Repeat: Generating and Modifying Images Based on Continual Linguistic Instruction ICCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -866,8 +866,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/10",
-          "description": "Cross-Modal Style Transfer ICIP N/A IEEE PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Cross-Modal Style Transfer ICIP N/A IEEE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -881,8 +881,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/10",
-          "description": "Learning to Globally Edit Images with Textual Description - N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Learning to Globally Edit Images with Textual Description - N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -896,8 +896,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/10",
-          "description": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language NeurIPS N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language NeurIPS N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,8 +911,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/05",
-          "description": "MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis BMVC N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis BMVC N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -926,8 +926,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/04",
-          "description": "Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation ECCV N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Coloring with Words: Guiding Image Colorization Through Text-based Palette Generation ECCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,8 +941,8 @@
         },
         {
           "node_type": "item",
-          "title": "2018/04",
-          "description": "Learning to Color from Language NAACL N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "Learning to Color from Language NAACL N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -956,8 +956,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017/12",
-          "description": "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication ACL N/A arXiv PyTorch (Official)",
+          "title": "PyTorch (Official)",
+          "description": "CoDraw: Collaborative Drawing as a Testbed for Grounded Goal-driven Communication ACL N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -971,8 +971,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017/11",
-          "description": "Language-Based Image Editing with Recurrent Attentive Models CVPR N/A arXiv TensorFlow (Official)",
+          "title": "TensorFlow (Official)",
+          "description": "Language-Based Image Editing with Recurrent Attentive Models CVPR N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,8 +986,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017/10",
-          "description": "Be Your Own Prada: Fashion Synthesis with Structural Coherence ICCV N/A arXiv Torch (Official)",
+          "title": "Torch (Official)",
+          "description": "Be Your Own Prada: Fashion Synthesis with Structural Coherence ICCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1001,8 +1001,8 @@
         },
         {
           "node_type": "item",
-          "title": "2017/07",
-          "description": "Semantic Image Synthesis via Adversarial Learning ICCV N/A arXiv PyTorch",
+          "title": "PyTorch",
+          "description": "Semantic Image Synthesis via Adversarial Learning ICCV N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,8 +1016,8 @@
         },
         {
           "node_type": "item",
-          "title": "2016/05",
-          "description": "Generative Adversarial Text to Image Synthesis ICML N/A arXiv Torch (Official)",
+          "title": "Torch (Official)",
+          "description": "Generative Adversarial Text to Image Synthesis ICML N/A arXiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:43:07.795Z",
+    "last_updated": "2026-08-25T06:33:27.523Z",
     "original_repository": "martinduartemore/awesome-text-based-image-manipulation",
     "original_repository_id": 288836439,
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
