@@ -441,7 +441,7 @@
             "last_commit": "2024-03-08T08:44:28Z",
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3685
+            "stars": 3684
           }
         },
         {
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:27.523Z",
+    "last_updated": "2026-08-25T17:43:06.697Z",
     "original_repository": "martinduartemore/awesome-text-based-image-manipulation",
     "original_repository_id": 288836439,
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
