@@ -141,7 +141,7 @@
             "last_commit": "2024-03-03T21:54:00Z",
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6884
+            "stars": 6885
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2024-08-08T04:46:33Z",
             "owner": "yumingj",
             "repo": "Talk-to-Edit",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -1034,7 +1034,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:43:06.697Z",
+    "last_updated": "2026-08-26T19:17:18.844Z",
     "original_repository": "martinduartemore/awesome-text-based-image-manipulation",
     "original_repository_id": 288836439,
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
