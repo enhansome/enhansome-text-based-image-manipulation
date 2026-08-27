@@ -1034,9 +1034,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:17:18.844Z",
-    "original_repository": "martinduartemore/awesome-text-based-image-manipulation",
-    "original_repository_id": 288836439,
+    "last_updated": "2026-08-27T12:07:14.910Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 288836439,
+      "language": "Python",
+      "last_commit": "2024-11-17T18:37:44Z",
+      "owner": "martinduartemore",
+      "repo": "awesome-text-based-image-manipulation",
+      "stars": 83
+    },
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
     "enhanced_repository": "enhansome/enhansome-text-based-image-manipulation",
     "enhanced_repository_description": null,
