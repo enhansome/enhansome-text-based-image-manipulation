@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Adversarial Text-to-Image Synthesis",
+            "homepage": "http://arxiv.org/abs/1605.05396",
             "id": 60300108,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-05T16:45:56Z",
+            "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Adversarial Text-to-Image Synthesis",
+            "homepage": "http://arxiv.org/abs/1605.05396",
             "id": 60300108,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-05T16:45:56Z",
+            "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CoDraw dataset",
+            "homepage": null,
             "id": 116881055,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-15T21:03:26Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "CoDraw",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -58,12 +73,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Multi-Modal-CelebA-HQ: A Large-Scale Text-Driven Face Generation and Understanding Dataset",
+            "homepage": "https://arxiv.org/abs/2012.03308",
             "id": 306326597,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-01T11:40:04Z",
+            "open_issues": 0,
             "owner": "IIGROUP",
             "repo": "MM-CelebA-HQ-Dataset",
-            "stars": 258
+            "stars": 258,
+            "topics": [
+              "face-image-data",
+              "multimodal-data",
+              "text-to-image-diffusion",
+              "text-to-image-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         }
@@ -80,12 +105,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Muse: Text-to-Image Generation via Masked Generative Transformers, in Pytorch",
+            "homepage": null,
             "id": 584843932,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-29T18:59:03Z",
+            "open_issues": 11,
             "owner": "lucidrains",
             "repo": "muse-maskgit-pytorch",
-            "stars": 918
+            "stars": 918,
+            "topics": [
+              "artificial-intelligence",
+              "attention-mechanisms",
+              "deep-learning",
+              "text-to-image",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -96,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIPVG: Text-Guided Image Manipulation Using Differentiable Vector Graphics (AAAI2023)",
+            "homepage": null,
             "id": 569584854,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-11-23T07:11:45Z",
+            "open_issues": 1,
             "owner": "NetEase-GameAI",
             "repo": "clipvg",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -112,12 +153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This respository contains the code for the CVPR 2023 paper SINE: SINgle Image Editing with Text-to-Image Diffusion Models.",
+            "homepage": "https://zhang-zx.github.io/SINE/",
             "id": 574754587,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-11T18:46:40Z",
+            "open_issues": 6,
             "owner": "zhang-zx",
             "repo": "SINE",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "diffusion-models",
+              "image-editing",
+              "stable-diffusion",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -128,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 544831636,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-14T08:06:32Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -144,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 586711486,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-03T21:54:00Z",
+            "open_issues": 79,
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6884
+            "stars": 6884,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -160,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One Model to Edit Them All: Free-Form Text-Driven Image Manipulation with Semantic Modulations. NeurIPS2022.",
+            "homepage": null,
             "id": 547844463,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-13T14:38:55Z",
+            "open_issues": 1,
             "owner": "KumapowerLIU",
             "repo": "FFCLIP",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -176,12 +242,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation UniTune based on stable diffusion",
+            "homepage": null,
             "id": 563602358,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-11-15T01:44:56Z",
+            "open_issues": 0,
             "owner": "xuduo35",
             "repo": "UniTune",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -192,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 544831636,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-14T08:06:32Z",
+            "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456
+            "stars": 3456,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -208,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 608270807,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2023-03-06T21:57:36Z",
+            "open_issues": 4,
             "owner": "google",
             "repo": "dreambooth",
-            "stars": 1029
+            "stars": 1029,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -224,12 +305,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2022] Towards Counterfactual Image Manipulation via CLIP",
+            "homepage": null,
             "id": 510991070,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-11T07:08:11Z",
+            "open_issues": 3,
             "owner": "yingchen001",
             "repo": "CF-CLIP",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "clip",
+              "image-edit",
+              "manipulation",
+              "sytlegan"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -240,12 +331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2023] Dynamic Text-guided Image Editing Adversarial Networks ",
+            "homepage": null,
             "id": 497384077,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-09T12:16:49Z",
+            "open_issues": 3,
             "owner": "tobran",
             "repo": "DE-Net",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -256,12 +352,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 394305639,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-05-10T00:27:28Z",
+            "open_issues": 7,
             "owner": "EleutherAI",
             "repo": "vqgan-clip",
-            "stars": 354
+            "stars": 354,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -272,12 +373,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 484220185,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-23T13:38:16Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "referring-manipulation",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -288,12 +394,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch Implementation for \"Text2LIVE: Text-Driven Layered Image and Video Editing\" (ECCV 2022 Oral)",
+            "homepage": "https://text2live.github.io/",
             "id": 518062112,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-09T15:26:39Z",
+            "open_issues": 21,
             "owner": "omerbt",
             "repo": "Text2LIVE",
-            "stars": 886
+            "stars": 886,
+            "topics": [
+              "clip",
+              "eccv2022",
+              "generative-model",
+              "image-editing",
+              "image-manipulation",
+              "single-image",
+              "single-video",
+              "text-driven-editing",
+              "text2live",
+              "video-editing"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -304,12 +426,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Evaluation benchmark for the task of Semantic Image Translation. Contains code to run FlexIT (CVPR 2022)",
+            "homepage": null,
             "id": 471329226,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-25T16:11:11Z",
+            "open_issues": 2,
             "owner": "facebookresearch",
             "repo": "SemanticImageTranslation",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -320,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch Code and Data for EnvEdit: Environment Editing for Vision-and-Language Navigation (CVPR 2022)",
+            "homepage": null,
             "id": 475670096,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-02T02:06:58Z",
+            "open_issues": 3,
             "owner": "jialuli-luka",
             "repo": "EnvEdit",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -336,12 +468,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Photorealistic human image editing with GANs - Reimplementation of the paper \"FEAT: Face Editing with Attention\" with additional changes and improvements.",
+            "homepage": null,
             "id": 529644591,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-17T13:49:14Z",
+            "open_issues": 3,
             "owner": "Psarpei",
             "repo": "GanVinci",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "attention",
+              "attention-mechanism",
+              "computer-vision",
+              "gans",
+              "generative-adversarial-network",
+              "generative-adversarial-networks",
+              "human-image",
+              "human-image-editing",
+              "image-editing",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -352,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "text-driven image style transfer (TxST) that leverages advanced image-text encoders to control arbitrary style transfer",
+            "homepage": null,
             "id": 469734584,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-02-26T06:14:28Z",
+            "open_issues": 0,
             "owner": "Holmes-Alan",
             "repo": "TxST",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -368,12 +521,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of \"CLIPstyler:Image Style Transfer with a Single Text Condition\" (CVPR 2022)",
+            "homepage": null,
             "id": 428916558,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-19T14:58:56Z",
+            "open_issues": 1,
             "owner": "cyclomon",
             "repo": "CLIPstyler",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "clip",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -384,12 +545,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "codebase for the SIMAT dataset and evaluation",
+            "homepage": null,
             "id": 403908544,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-02-16T16:36:24Z",
+            "open_issues": 3,
             "owner": "facebookresearch",
             "repo": "SIMAT",
-            "stars": 39
+            "stars": 39,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -400,12 +566,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields",
+            "homepage": null,
             "id": 436845479,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-25T02:53:38Z",
+            "open_issues": 14,
             "owner": "cassiePython",
             "repo": "CLIPNeRF",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -416,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] HairCLIP: Design Your Hair by Text and Reference Image",
+            "homepage": null,
             "id": 435410428,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2024-04-24T17:18:26Z",
+            "open_issues": 26,
             "owner": "wtybest",
             "repo": "HairCLIP",
-            "stars": 593
+            "stars": 593,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -432,12 +608,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 617045497,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-27T09:21:50Z",
+            "open_issues": 8,
             "owner": "xh-liu",
             "repo": "SDG_code",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -448,12 +629,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation for \"StyleMC: Multi-Channel Based Fast Text-Guided Image Generation and Manipulation\" (WACV 2022)",
+            "homepage": null,
             "id": 415707851,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-09T10:56:59Z",
+            "open_issues": 4,
             "owner": "catlab-team",
             "repo": "stylemc",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -464,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GLIDE: a diffusion-based text-conditional image synthesis model",
+            "homepage": null,
             "id": 437090199,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-08T08:44:28Z",
+            "open_issues": 28,
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3684
+            "stars": 3684,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -480,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes and pre-trained models for LatteGAN.",
+            "homepage": null,
             "id": 419227049,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-11-03T07:05:31Z",
+            "open_issues": 1,
             "owner": "smatsumori",
             "repo": "LatteGAN",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -496,12 +692,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR'2022 paper ✨ \"Predict, Prevent, and Evaluate: Disentangled Text-Driven Image Manipulation Empowered by Pre-Trained Vision-Language Model\"",
+            "homepage": null,
             "id": 471460078,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-13T22:44:53Z",
+            "open_issues": 0,
             "owner": "zipengxuc",
             "repo": "PPE",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -512,12 +713,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation for \"Blended Diffusion for Text-driven Editing of Natural Images\" [CVPR 2022]",
+            "homepage": "https://omriavrahami.com/blended-diffusion-page/",
             "id": 433041802,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-06-04T11:59:37Z",
+            "open_issues": 0,
             "owner": "omriav",
             "repo": "blended-diffusion",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "blended-diffusion",
+              "deep-learning",
+              "diffusion",
+              "multimodal",
+              "openai",
+              "openai-clip",
+              "text-guided-manipulation",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -528,12 +743,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Official PyTorch Implementation for DiffusionCLIP: Text-guided Image Manipulation Using Diffusion Models",
+            "homepage": null,
             "id": 431390576,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-27T10:28:26Z",
+            "open_issues": 27,
             "owner": "gwang-kim",
             "repo": "DiffusionCLIP",
-            "stars": 865
+            "stars": 865,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -544,12 +764,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Django project for \"Language-Guided Global Image Editing via Cross-Modal Cyclic Mechanism\" (ICCV 2021)",
+            "homepage": null,
             "id": 597006273,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-02-03T12:48:43Z",
+            "open_issues": 0,
             "owner": "wtjiang98",
             "repo": "Language_Guided_Image_Editing",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "image-editing"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -560,12 +787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BMVC2021",
+            "homepage": null,
             "id": 418947520,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-22T12:57:47Z",
+            "open_issues": 1,
             "owner": "Zlq2021",
             "repo": "CA-GAN",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -576,12 +808,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Talk-to-Edit (ICCV2021). Paper: Talk-to-Edit: Fine-Grained Facial Editing via Dialog.",
+            "homepage": "https://www.mmlab-ntu.com/project/talkedit/",
             "id": 394665708,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-08T04:46:33Z",
+            "open_issues": 2,
             "owner": "yumingj",
             "repo": "Talk-to-Edit",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -592,12 +829,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of \"Learning by Planning: Language-Guided Global Image Editing\"",
+            "homepage": null,
             "id": 247373510,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-10T06:45:11Z",
+            "open_issues": 0,
             "owner": "jshi31",
             "repo": "T2ONet",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -608,12 +850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation for \"StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery\" (ICCV 2021 Oral)",
+            "homepage": null,
             "id": 338780080,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-05-30T19:57:17Z",
+            "open_issues": 64,
             "owner": "orpatashnik",
             "repo": "StyleCLIP",
-            "stars": 4121
+            "stars": 4121,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -624,12 +871,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch package for the discrete VAE used for DALL·E.",
+            "homepage": null,
             "id": 341714203,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-31T15:42:28Z",
+            "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10834
+            "stars": 10834,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -640,12 +892,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Pytorch implementation for TediGAN: Text-Guided Diverse Face Image Generation and Manipulation",
+            "homepage": "https://arxiv.org/abs/2012.03308",
             "id": 319073958,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-13T05:48:31Z",
+            "open_issues": 11,
             "owner": "IIGROUP",
             "repo": "TediGAN",
-            "stars": 389
+            "stars": 389,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -656,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for Lightweight Generative Adversarial Networks for Text-Guided Image Manipulation.",
+            "homepage": null,
             "id": 306014120,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-01-04T17:03:00Z",
+            "open_issues": 0,
             "owner": "mrlibw",
             "repo": "Lightweight-Manipulation",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -672,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ACCV2020 paper 'A Benchmark and Baseline for Language-Driven Image Editing'",
+            "homepage": null,
             "id": 299373593,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-28T16:57:03Z",
+            "open_issues": 2,
             "owner": "jshi31",
             "repo": "LDIE_ACCV",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -688,12 +955,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of SSCR",
+            "homepage": null,
             "id": 297191917,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-12T06:23:18Z",
+            "open_issues": 0,
             "owner": "tsujuifu",
             "repo": "pytorch_sscr",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "emnlp2020",
+              "image-editing",
+              "pytorch",
+              "vision-and-language"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -704,12 +981,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACM MM 2020] DWC-GAN.",
+            "homepage": null,
             "id": 285512486,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-29T02:13:34Z",
+            "open_issues": 2,
             "owner": "yhlleo",
             "repo": "DWC-GAN",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -720,12 +1002,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ECCV 2020 paper \"Open-Edit: Open-domain Image Manipulation with Open-Vocabulary Instructions\"",
+            "homepage": null,
             "id": 284968129,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-27T09:33:00Z",
+            "open_issues": 2,
             "owner": "xh-liu",
             "repo": "Open-Edit",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -736,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 311517314,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-11T11:57:26Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "tim-gan",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -752,12 +1044,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of IR-GAN: Image Manipulation with Lingustic Instruction by Increment Reasoning. ACM MM 2020",
+            "homepage": null,
             "id": 304793705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-17T04:10:24Z",
+            "open_issues": 0,
             "owner": "Victarry",
             "repo": "IR-GAN-Code",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -768,12 +1065,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source Code for \"Scones: Towards Conversational Authoring of Sketches\"",
+            "homepage": null,
             "id": 356106372,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2021-04-09T20:21:01Z",
+            "open_issues": 0,
             "owner": "CannyLab",
             "repo": "scones",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -784,12 +1086,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The pytorch implementation of the paper \"text-guided neural image inpainting\" at MM'2020 (oral)",
+            "homepage": null,
             "id": 286495715,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-03T14:56:04Z",
+            "open_issues": 1,
             "owner": "idealwhite",
             "repo": "tdanet",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "computer-vision",
+              "image-completion",
+              "image-inpainting",
+              "image-restoration",
+              "pytorch",
+              "text-to-image-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -800,12 +1114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for ManiGAN: Text-Guided Image Manipulation.",
+            "homepage": null,
             "id": 247939152,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-29T20:13:52Z",
+            "open_issues": 15,
             "owner": "mrlibw",
             "repo": "ManiGAN",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -816,12 +1135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Controlling Style and Semantics in Weakly-Supervised Image Generation\", ECCV 2020",
+            "homepage": null,
             "id": 279308341,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2020-09-23T15:18:39Z",
+            "open_issues": 1,
             "owner": "dariopavllo",
             "repo": "style-semantics",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -832,12 +1156,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for Controllable Text-to-Image Generation.",
+            "homepage": null,
             "id": 229346839,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-12-26T03:11:16Z",
+            "open_issues": 9,
             "owner": "mrlibw",
             "repo": "ControlGAN",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -848,12 +1177,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-mapping Image-to-Image Translation via Learning Disentanglement. NeurIPS2019",
+            "homepage": null,
             "id": 206210566,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-30T12:42:42Z",
+            "open_issues": 1,
             "owner": "Xiaoming-Yu",
             "repo": "DMIT",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "image-to-image-translation",
+              "season-transfer",
+              "semantic-image-synthesis",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -864,12 +1203,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of our paper: Bilinear Representation for Language-Based Image Editing using Conditional Generative Adversarial Networks (ICASSP2019)",
+            "homepage": "https://arxiv.org/abs/1903.07499",
             "id": 155202412,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-02-01T23:07:39Z",
+            "open_issues": 3,
             "owner": "vtddggg",
             "repo": "BilinearGAN_for_LBIE",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "generative-adversarial-network",
+              "generative-model",
+              "image-editing",
+              "image-generation"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -880,12 +1229,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH Asia 2019] Language-based Colorization of Scene Sketches",
+            "homepage": "https://sketchyscene.github.io/SketchySceneColorization/",
             "id": 201707125,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-11T03:57:53Z",
+            "open_issues": 0,
             "owner": "SketchyScene",
             "repo": "SketchySceneColorization",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "colorization",
+              "image-colorization",
+              "instance-segmentation",
+              "language",
+              "language-interface",
+              "referring-image-segmentation",
+              "referring-segmentation",
+              "scene-sketch",
+              "siggraph",
+              "siggraph-asia",
+              "sketch",
+              "sketch-colorization"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -896,12 +1263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Paired-D GAN for Semantic Image Synthesis\", Duc et al., ACCV 2018",
+            "homepage": null,
             "id": 165482802,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-04-18T02:57:37Z",
+            "open_issues": 1,
             "owner": "vominhduc",
             "repo": "Paied-D-GAN",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -912,12 +1284,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code to train and evaluate the GeNeVA-GAN model for the GeNeVA task proposed in our ICCV 2019 paper \"Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction\"",
+            "homepage": "https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/",
             "id": 209374491,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-27T08:42:35Z",
+            "open_issues": 4,
             "owner": "Maluuba",
             "repo": "GeNeVA",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "chatpainter",
+              "codraw",
+              "dialogue",
+              "gan",
+              "generative-adversarial-networks",
+              "generative-neural-visual-artist",
+              "geneva",
+              "geneva-gan",
+              "i-clevr",
+              "iccv",
+              "iccv-2019",
+              "iccv2019",
+              "interactive-generative-art",
+              "interactive-image-generation",
+              "keep-drawing-it",
+              "tell-draw-repeat"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -928,12 +1322,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to transfer sentence to image style.",
+            "homepage": null,
             "id": 104306880,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-19T12:10:39Z",
+            "open_issues": 0,
             "owner": "SahilC",
             "repo": "Cross-Modal-Style",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "cross-modal-retrieval",
+              "deep-learning",
+              "pytorch",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -944,12 +1348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for image edit with text project",
+            "homepage": null,
             "id": 151780241,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-21T03:32:47Z",
+            "open_issues": 4,
             "owner": "sohuren",
             "repo": "Img_edit_with_text",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -960,12 +1369,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An official PyTorch implementation of the paper \"Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language\", NeurIPS 2018",
+            "homepage": null,
             "id": 158641670,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-05T01:27:53Z",
+            "open_issues": 6,
             "owner": "woozzu",
             "repo": "tagan",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "manipulate-images",
+              "natural-language",
+              "neurips-2018",
+              "nips-2018",
+              "text-to-image"
+            ]
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -976,12 +1399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MC-GAN: Multi-conditional Generative Adversarial Network for Image (BMVC 2018)",
+            "homepage": null,
             "id": 144566597,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-08-13T17:14:03Z",
+            "open_issues": 1,
             "owner": "HYOJINPARK",
             "repo": "MC_GAN",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -992,12 +1420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Coloring with Words: Guiding Image Colorization through Text-based Palette Generation\" - ECCV 2018",
+            "homepage": null,
             "id": 127594898,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-26T08:35:30Z",
+            "open_issues": 4,
             "owner": "awesome-davian",
             "repo": "Text2Colors",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1008,12 +1441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code base of the paper : Learning to Color from Language",
+            "homepage": null,
             "id": 129812839,
             "language": "OpenEdge ABL",
+            "license": null,
             "last_commit": "2018-11-20T15:19:01Z",
+            "open_issues": 6,
             "owner": "superhans",
             "repo": "colorfromlanguage",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1024,12 +1462,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Models for the Collaborative Drawing (CoDraw) task",
+            "homepage": null,
             "id": 144776653,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-15T20:59:15Z",
+            "open_issues": 0,
             "owner": "facebookresearch",
             "repo": "codraw-models",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1040,12 +1483,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 125583988,
             "language": "OpenEdge ABL",
+            "license": null,
             "last_commit": "2023-03-24T23:41:19Z",
+            "open_issues": 3,
             "owner": "Jianbo-Lab",
             "repo": "LBIE",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1056,12 +1504,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full version (training+testing) of implementation of Shizhan Zhu et al.'s ICCV-17 work Be Your Own Prada: Fashion Synthesis with Structural Coherence ",
+            "homepage": null,
             "id": 101608830,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-12-09T02:08:13Z",
+            "open_issues": 10,
             "owner": "zhusz",
             "repo": "ICCV17-fashionGAN",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1072,12 +1525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the paper \"Semantic Image Synthesis via Adversarial Learning\" in ICCV 2017",
+            "homepage": null,
             "id": 101030911,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-08-24T08:48:48Z",
+            "open_issues": 8,
             "owner": "woozzu",
             "repo": "dong_iccv_2017",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         },
@@ -1088,12 +1546,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generative Adversarial Text-to-Image Synthesis",
+            "homepage": "http://arxiv.org/abs/1605.05396",
             "id": 60300108,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-09-05T16:45:56Z",
+            "open_issues": 31,
             "owner": "reedscot",
             "repo": "icml2016",
-            "stars": 911
+            "stars": 911,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
         }
@@ -1102,15 +1565,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:57:15.004Z",
+    "last_updated": "2026-08-29T05:03:41.700Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of text-based image manipulation methods.",
+      "homepage": null,
       "id": 288836439,
       "language": "Python",
+      "license": "CC0-1.0",
       "last_commit": "2024-11-17T18:37:44Z",
+      "open_issues": 0,
       "owner": "martinduartemore",
       "repo": "awesome-text-based-image-manipulation",
-      "stars": 83
+      "stars": 83,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "image-editing",
+        "image-manipulation",
+        "language-based-image-editing",
+        "language-based-image-manipulation",
+        "text-based-image-editing",
+        "text-based-image-manipulation",
+        "text-driven-editing",
+        "text-driven-image-editing",
+        "text-driven-image-manipulation",
+        "text-driven-manipulation",
+        "text-guided-image-editing",
+        "text-guided-image-manipulation"
+      ]
     },
     "original_repository_sha": "868a18eaf60e21eafca547c61989dbaae4bb0aaa",
     "enhanced_repository": "enhansome/enhansome-text-based-image-manipulation",
