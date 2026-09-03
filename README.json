@@ -111,7 +111,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-02-29T18:59:03Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "lucidrains",
             "repo": "muse-maskgit-pytorch",
             "stars": 918,
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:45:14.496Z",
+    "last_updated": "2026-09-03T19:47:32.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
