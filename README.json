@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10831,
+            "stars": 10830,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1429,7 +1429,7 @@
             "open_issues": 4,
             "owner": "awesome-davian",
             "repo": "Text2Colors",
-            "stars": 178,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:07:38.036Z",
+    "last_updated": "2026-09-07T20:33:00.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
