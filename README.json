@@ -209,7 +209,7 @@
             "open_issues": 79,
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6883,
+            "stars": 6881,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -659,7 +659,7 @@
             "open_issues": 28,
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3684,
+            "stars": 3682,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "omriav",
             "repo": "blended-diffusion",
-            "stars": 589,
+            "stars": 588,
             "topics": [
               "blended-diffusion",
               "deep-learning",
@@ -752,7 +752,7 @@
             "open_issues": 27,
             "owner": "gwang-kim",
             "repo": "DiffusionCLIP",
-            "stars": 865,
+            "stars": 864,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -859,7 +859,7 @@
             "open_issues": 64,
             "owner": "orpatashnik",
             "repo": "StyleCLIP",
-            "stars": 4119,
+            "stars": 4118,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -901,7 +901,7 @@
             "open_issues": 11,
             "owner": "IIGROUP",
             "repo": "TediGAN",
-            "stars": 389,
+            "stars": 388,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1123,7 +1123,7 @@
             "open_issues": 15,
             "owner": "mrlibw",
             "repo": "ManiGAN",
-            "stars": 146,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T20:33:00.201Z",
+    "last_updated": "2026-09-08T19:53:57.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
