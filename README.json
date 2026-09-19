@@ -859,7 +859,7 @@
             "open_issues": 64,
             "owner": "orpatashnik",
             "repo": "StyleCLIP",
-            "stars": 4119,
+            "stars": 4118,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10823,
+            "stars": 10822,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:34:11.416Z",
+    "last_updated": "2026-09-19T19:18:09.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
