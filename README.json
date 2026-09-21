@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10822,
+            "stars": 10821,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:25:17.599Z",
+    "last_updated": "2026-09-21T21:01:23.793Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
