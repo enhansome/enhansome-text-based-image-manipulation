@@ -530,7 +530,7 @@
             "open_issues": 1,
             "owner": "cyclomon",
             "repo": "CLIPstyler",
-            "stars": 327,
+            "stars": 326,
             "topics": [
               "clip",
               "style-transfer"
@@ -596,7 +596,7 @@
             "open_issues": 26,
             "owner": "wtybest",
             "repo": "HairCLIP",
-            "stars": 594,
+            "stars": 595,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:27:16.636Z",
+    "last_updated": "2026-09-25T20:26:54.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
