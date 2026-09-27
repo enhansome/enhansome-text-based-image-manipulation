@@ -188,7 +188,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -209,7 +209,7 @@
             "open_issues": 79,
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6882,
+            "stars": 6883,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -272,7 +272,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -659,7 +659,7 @@
             "open_issues": 28,
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3678,
+            "stars": 3679,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -836,7 +836,7 @@
             "license": null,
             "last_commit": "2023-05-10T06:45:11Z",
             "open_issues": 0,
-            "owner": "jshi31",
+            "owner": "jaxfield",
             "repo": "T2ONet",
             "stars": 25,
             "topics": []
@@ -929,7 +929,7 @@
         },
         {
           "node_type": "item",
-          "title": "jshi31/LDIE_ACCV",
+          "title": "jaxfield/LDIE_ACCV",
           "description": "A Benchmark and Baseline for Language-Driven Image Editing ACCV N/A arXiv",
           "children": [],
           "repo_info": {
@@ -941,7 +941,7 @@
             "license": null,
             "last_commit": "2020-09-28T16:57:03Z",
             "open_issues": 2,
-            "owner": "jshi31",
+            "owner": "jaxfield",
             "repo": "LDIE_ACCV",
             "stars": 6,
             "topics": []
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:48:36.879Z",
+    "last_updated": "2026-09-27T20:07:26.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
