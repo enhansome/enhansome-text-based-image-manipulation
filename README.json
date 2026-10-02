@@ -314,7 +314,7 @@
             "open_issues": 3,
             "owner": "yingchen001",
             "repo": "CF-CLIP",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "clip",
               "image-edit",
@@ -575,7 +575,7 @@
             "open_issues": 14,
             "owner": "cassiePython",
             "repo": "CLIPNeRF",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -752,7 +752,7 @@
             "open_issues": 27,
             "owner": "gwang-kim",
             "repo": "DiffusionCLIP",
-            "stars": 864,
+            "stars": 865,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -859,7 +859,7 @@
             "open_issues": 64,
             "owner": "orpatashnik",
             "repo": "StyleCLIP",
-            "stars": 4117,
+            "stars": 4118,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T21:47:32.179Z",
+    "last_updated": "2026-10-02T21:18:00.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
