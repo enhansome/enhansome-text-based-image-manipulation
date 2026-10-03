@@ -145,8 +145,8 @@ the first preprint release date.
 
 ## Contributing
 
-Feel free to send me [pull requests](https://github.com/martinduartemore/awesome-text-based-image-manipulation) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2024-11-17 to add resources.
+Feel free to send me [pull requests](https://github.com/martinduartemore/awesome-text-based-image-manipulation) to add resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

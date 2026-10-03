@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "CoDraw",
-          "description": "Data",
+          "description": "facebookresearch/CoDraw",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "Multi-Modal-CelebA-HQ",
-          "description": "Data",
+          "description": "IIGROUP/MM-CelebA-HQ-Dataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:18:00.818Z",
+    "last_updated": "2026-10-03T05:12:33.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
