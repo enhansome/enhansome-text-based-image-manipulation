@@ -114,7 +114,7 @@
             "open_issues": 11,
             "owner": "lucidrains",
             "repo": "muse-maskgit-pytorch",
-            "stars": 918,
+            "stars": 917,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -293,7 +293,7 @@
             "open_issues": 4,
             "owner": "google",
             "repo": "dreambooth",
-            "stars": 1030,
+            "stars": 1029,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:45.313Z",
+    "last_updated": "2026-10-06T21:36:14.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
