@@ -114,7 +114,7 @@
             "open_issues": 11,
             "owner": "lucidrains",
             "repo": "muse-maskgit-pytorch",
-            "stars": 917,
+            "stars": 916,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -188,7 +188,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -272,7 +272,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "prompt-to-prompt",
-            "stars": 3456,
+            "stars": 3455,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -596,7 +596,7 @@
             "open_issues": 26,
             "owner": "wtybest",
             "repo": "HairCLIP",
-            "stars": 595,
+            "stars": 594,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:40:09.453Z",
+    "last_updated": "2026-10-15T20:18:45.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
