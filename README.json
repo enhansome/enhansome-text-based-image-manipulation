@@ -722,7 +722,7 @@
             "open_issues": 0,
             "owner": "omriav",
             "repo": "blended-diffusion",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "blended-diffusion",
               "deep-learning",
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10817,
+            "stars": 10816,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:18:45.758Z",
+    "last_updated": "2026-10-16T19:55:35.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
