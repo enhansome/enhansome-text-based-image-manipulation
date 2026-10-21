@@ -209,7 +209,7 @@
             "open_issues": 79,
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6885,
+            "stars": 6886,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10816,
+            "stars": 10814,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:32:58.428Z",
+    "last_updated": "2026-10-21T20:35:48.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
