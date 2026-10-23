@@ -403,7 +403,7 @@
             "open_issues": 21,
             "owner": "omerbt",
             "repo": "Text2LIVE",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "clip",
               "eccv2022",
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10814,
+            "stars": 10813,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:32:17.354Z",
+    "last_updated": "2026-10-23T20:24:30.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
