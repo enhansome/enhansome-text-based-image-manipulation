@@ -19,7 +19,7 @@ A curated list of text-based image manipulation methods
 |            CoDraw           |                                                    [Data](https://github.com/facebookresearch/CoDraw) ⚠️ Archived                                                    |
 |         DeepFashion         |            [Images](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/FashionSynthesis.html)<br>[Captions](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN)           |
 |           i-CLEVR           |                                   [Data](https://www.microsoft.com/en-us/research/project/generative-neural-visual-artist-geneva/)                                   |
-|    Multi-Modal-CelebA-HQ    |                             [Data](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset) ⭐ 258 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-01                             |
+|    Multi-Modal-CelebA-HQ    |                             [Data](https://github.com/IIGROUP/Multi-Modal-CelebA-HQ-Dataset) ⭐ 259 \| 🐛 0 \| 🌐 Python \| 📅 2024-06-01                             |
 
 ## Papers
 
@@ -149,4 +149,4 @@ Feel free to send me [pull requests](https://github.com/martinduartemore/awesome
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
