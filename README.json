@@ -596,7 +596,7 @@
             "open_issues": 26,
             "owner": "wtybest",
             "repo": "HairCLIP",
-            "stars": 594,
+            "stars": 593,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1513,7 +1513,7 @@
             "open_issues": 10,
             "owner": "zhusz",
             "repo": "ICCV17-fashionGAN",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T21:38:09.585Z",
+    "last_updated": "2026-10-29T21:46:02.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
