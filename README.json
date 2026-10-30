@@ -403,7 +403,7 @@
             "open_issues": 21,
             "owner": "omerbt",
             "repo": "Text2LIVE",
-            "stars": 885,
+            "stars": 884,
             "topics": [
               "clip",
               "eccv2022",
@@ -659,7 +659,7 @@
             "open_issues": 28,
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3681,
+            "stars": 3683,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -859,7 +859,7 @@
             "open_issues": 64,
             "owner": "orpatashnik",
             "repo": "StyleCLIP",
-            "stars": 4114,
+            "stars": 4115,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10809,
+            "stars": 10808,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:46:02.675Z",
+    "last_updated": "2026-10-30T21:27:48.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
