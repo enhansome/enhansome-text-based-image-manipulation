@@ -403,7 +403,7 @@
             "open_issues": 21,
             "owner": "omerbt",
             "repo": "Text2LIVE",
-            "stars": 885,
+            "stars": 884,
             "topics": [
               "clip",
               "eccv2022",
@@ -1144,7 +1144,7 @@
             "open_issues": 1,
             "owner": "dariopavllo",
             "repo": "style-semantics",
-            "stars": 146,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1238,7 +1238,7 @@
             "open_issues": 0,
             "owner": "SketchyScene",
             "repo": "SketchySceneColorization",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "colorization",
               "image-colorization",
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:51:42.119Z",
+    "last_updated": "2026-11-03T22:16:30.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
