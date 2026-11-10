@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "IIGROUP",
             "repo": "MM-CelebA-HQ-Dataset",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "face-image-data",
               "multimodal-data",
@@ -114,7 +114,7 @@
             "open_issues": 11,
             "owner": "lucidrains",
             "repo": "muse-maskgit-pytorch",
-            "stars": 917,
+            "stars": 918,
             "topics": [
               "artificial-intelligence",
               "attention-mechanisms",
@@ -209,7 +209,7 @@
             "open_issues": 79,
             "owner": "timothybrooks",
             "repo": "instruct-pix2pix",
-            "stars": 6885,
+            "stars": 6884,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -880,7 +880,7 @@
             "open_issues": 75,
             "owner": "openai",
             "repo": "DALL-E",
-            "stars": 10806,
+            "stars": 10804,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1450,7 +1450,7 @@
             "open_issues": 6,
             "owner": "superhans",
             "repo": "colorfromlanguage",
-            "stars": 16,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:05:55.408Z",
+    "last_updated": "2026-11-10T00:40:04.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
