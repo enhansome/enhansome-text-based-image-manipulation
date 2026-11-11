@@ -162,7 +162,7 @@
             "open_issues": 6,
             "owner": "zhang-zx",
             "repo": "SINE",
-            "stars": 189,
+            "stars": 188,
             "topics": [
               "diffusion-models",
               "image-editing",
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:20:13.882Z",
+    "last_updated": "2026-11-11T23:26:59.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
