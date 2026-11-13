@@ -82,7 +82,7 @@
             "open_issues": 0,
             "owner": "IIGROUP",
             "repo": "MM-CelebA-HQ-Dataset",
-            "stars": 260,
+            "stars": 261,
             "topics": [
               "face-image-data",
               "multimodal-data",
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T22:41:50.866Z",
+    "last_updated": "2026-11-13T22:34:13.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
