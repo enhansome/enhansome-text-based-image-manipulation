@@ -361,7 +361,7 @@
             "open_issues": 7,
             "owner": "EleutherAI",
             "repo": "vqgan-clip",
-            "stars": 353,
+            "stars": 354,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -530,7 +530,7 @@
             "open_issues": 1,
             "owner": "cyclomon",
             "repo": "CLIPstyler",
-            "stars": 326,
+            "stars": 327,
             "topics": [
               "clip",
               "style-transfer"
@@ -596,7 +596,7 @@
             "open_issues": 26,
             "owner": "wtybest",
             "repo": "HairCLIP",
-            "stars": 593,
+            "stars": 594,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -659,7 +659,7 @@
             "open_issues": 28,
             "owner": "openai",
             "repo": "glide-text2im",
-            "stars": 3682,
+            "stars": 3683,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -752,7 +752,7 @@
             "open_issues": 27,
             "owner": "gwang-kim",
             "repo": "DiffusionCLIP",
-            "stars": 866,
+            "stars": 867,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -817,7 +817,7 @@
             "open_issues": 2,
             "owner": "yumingj",
             "repo": "Talk-to-Edit",
-            "stars": 371,
+            "stars": 372,
             "topics": []
           },
           "first_seen": "2026-08-29T00:57:15.004Z"
@@ -1565,7 +1565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T21:43:49.810Z",
+    "last_updated": "2026-11-17T00:46:21.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of text-based image manipulation methods.",
